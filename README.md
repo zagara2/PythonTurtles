@@ -1,4 +1,4 @@
-# Python Turtles
+# Turtle Time!
 
 ## What is it?
 A program that uses Python Turtle graphics to draw a picture of various foods and generate some text.
